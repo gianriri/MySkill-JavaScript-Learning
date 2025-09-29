@@ -1,0 +1,11 @@
+{
+  "name": "myskill-javascript-learning",
+  "version": "1.0.0",
+  "description": "Belajar JavaScript dasar MySkill",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gian",
+  "license": "ISC"
+}
